@@ -39,6 +39,6 @@ hunter_config(bcos-boostssl
 
 hunter_config(bcos-cpp-sdk
 	VERSION 3.0.0-local
-    URL https://github.com/LucasLi1024/bcos-cpp-sdk/archive/15240bb022ac9899590ae21b5a44150e69244315.tar.gz
-	SHA1 f38fd137d9bde1cd8a7e1e67f2343bf2523d844a
+    URL https://github.com/LucasLi1024/bcos-cpp-sdk/archive/203dff5c18cb6d61f90412223499f3ffd73e065b.tar.gz
+	SHA1 74d52064bbf51d145ab4367073e698eb60fd86b2
 )
